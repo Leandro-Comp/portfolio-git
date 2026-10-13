@@ -1,3 +1,3 @@
 # Meu Portfólio
 
-# Adicição aleatoria
+# Adicição aleatoria para a atividade
