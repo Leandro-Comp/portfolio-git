@@ -1,3 +1,1 @@
-# Meu Portfólio
-
-# Adicição aleatoria para a atividade
+# Meu Portfolio Git
